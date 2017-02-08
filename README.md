@@ -2,6 +2,7 @@
 
 ## 基于jquery的banner组件
 
+**html模板代码**
 ```html
 <div id="banner-wrap">
 	<ul class="banner-list">
@@ -29,3 +30,6 @@
 			})
 </script>
 ```
+配置参数列表
++ width type:number 轮播图的宽度
++ hieght type:number 轮播图的高度
